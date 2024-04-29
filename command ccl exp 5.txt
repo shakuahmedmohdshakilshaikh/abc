@@ -1,0 +1,8 @@
+ npm init -y
+npm install express
+ npm init -y
+node app
+ node app
+
+https://espressif.github.io/arduino-esp32/package_esp32_index.json
+https://justdoelectronics.com/iot-based-patient-health-monitoring-system-using-esp32-and-blynk-app/

@@ -1,0 +1,7 @@
+sudo apt update && sudo apt install nginx -y
+cd /var/www/html
+sudo rm index.nginx-debian.html
+sudo git clone  https://github.com/shakuahmedmo                                                                                                             hdshakilshaikh/Portfolio-Website.git .
+cd  Portfolio-Website-Template-main
+sudo cp(mv) -rf * ..
+cd ..
